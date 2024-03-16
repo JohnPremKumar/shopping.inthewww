@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shopping.inthewww.com/sitemap.xml
